@@ -4,7 +4,6 @@
 
 Aquí tienes el código del vídeo de Youtube para que puedas descargarlo y practicarlo. Lo tienes paso a paso en el propio vídeo y recuerda que hay más módulos para practicar! 😊
 
-[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://eduardofierropro.github.io/Lightbox-con-HTML-CSS-y-Javascript-para-Youtube/)
 [![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=57NEnHYsoDQ)
 
 ## Tecnologías usadas
